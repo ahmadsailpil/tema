@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/Angelillo15/MinecraftPurpleTheme/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/agilraka/tema/main/install.sh)
 ```
 
 Screenshots:
@@ -10,4 +10,4 @@ Screenshots:
 ![Main panel screenshot](https://media.discordapp.net/attachments/920581510510297169/1001607296746528778/Captura_de_pantalla_2022-07-26_215606.png "Main panel screenshot")
 # Instalation Script
 ![Skrip penginstalan](https://i.imgur.com/8hFZG5b.png "Skrip penginstalan")
-https://github.com/agilraka/tema.git
+bash <(curl -s https://raw.githubusercontent.com/agilraka/tema/main/install.sh)
